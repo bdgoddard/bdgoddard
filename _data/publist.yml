@@ -1,3 +1,13 @@
+- title: Automated calculation of higher order partial differential equation constrained derivative information
+  image: dummy.png
+  description: ""
+  authors:
+    J. R. Maddison, D. N. Goldberg and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1137/18M1209465
+    display: J. Sci. Comp., 41, (5), C417-C445, 2019
+  highlight: 1
+
 - title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
