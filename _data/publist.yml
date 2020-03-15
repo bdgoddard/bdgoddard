@@ -115,7 +115,7 @@
     B. D. Goddard, A. Nold, N.Savva and S. Kalliadasis
   link:
     url: https://dx.doi.org/10.1088/0953-8984/25/3/035101
-    display: J. Phys.: Condens. Matter, 25, 35101, 2013
+    display: "J. Phys.: Condens. Matter, 25, 35101, 2013"
   highlight: 0  
 
 - title: General dynamical density functional theory for classical fluids
@@ -178,7 +178,7 @@
     display: P. Roy. Soc. A-Math. Phy., 485, 3553-3580, 2009
   highlight: 0  
   
-- title: Asymptotics-based CI models for atoms: Properties, exact solution of a minimal model for Li to Ne, and application to atomic spectra
+- title: "Asymptotics-based CI models for atoms: Properties, exact solution of a minimal model for Li to Ne, and application to atomic spectra"
   image: dummy.png
   description: ""
   authors:
