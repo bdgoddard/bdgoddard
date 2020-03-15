@@ -62,6 +62,10 @@ I am currently a lecturer in the [School of Mathematics](http://www.maths.ed.ac.
 Broadly speaking, my research concerns modelling, analysis and numerics for complex, multiscale systems.  My work has applications in chemistry, physics, engineering and biology.  Both the areas and techniques used in my research are very broad-ranging. I'm always happy to discuss my work with anyone, especially mathematicians, applied scientists and prospective PhD students.
 
 Trivia:
+I have [Erd&#246;s](http://en.wikipedia.org/wiki/Erdos_number) number 4: Me --> Volker Betz --> Peter M&ouml;rters --> David Preiss --> Paul Erd&#246;s, and [Bacon number](http://en.wikipedia.org/wiki/Bacon_number) 3: Me --(G103)-->; Patrick Niknejad --(Harry Potter)-->; Gary Oldman --(Criminal Law)-->; Kevin Bacon.
+
+This gives me an [Erd&#246;s-Bacon](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) number of 7.
+
 
 <!--
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
