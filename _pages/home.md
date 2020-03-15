@@ -9,8 +9,6 @@ permalink: /
 I am currently a lecturer in the [School of Mathematics](http://www.maths.ed.ac.uk/) at the [University of Edinburgh](http://www.ed.ac.uk/). Previous to this, I have been a postdoc in the groups of [Serafim Kalliadasis](http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=s.kalliadasis&_adf.ctrl-state=noxc94gbi_3&_afrRedirect=292205271445195">Serafim Kalliadasis) ([Imperial College](http://www3.imperial.ac.uk/), [Chemical Engineering](http://www3.imperial.ac.uk/complexmultiphasesystems)) and [Volker Betz](http://www.mathematik.tu-darmstadt.de/~betz/) ([University of Warwick](http://www2.warwick.ac.uk/), [Mathematics](http://www2.warwick.ac.uk/fac/sci/maths/), now [TU Darmstadt](http://www.tu-darmstadt.de/index.en.jsp), [Mathematics](http://www3.mathematik.tu-darmstadt.de/en/fb/mathe/startseite.html)).  I undertook my PhD under [Gero Friesecke](http://www-m7.ma.tum.de/bin/view/Analysis/GeroFriesecke) (University of Warwick, Maths, now [TU Munich](http://www.tum.de/en/homepage/), 
 [Mathematics](http://www-m7.ma.tum.de/bin/view/Analysis/WebHome)).
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
