@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Ben Goddard - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Ben Goddard -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -56,7 +56,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  {{publi.number}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
