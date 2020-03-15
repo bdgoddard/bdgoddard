@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Ben Goddard - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Ben Goddard at the University of Edinburgh."
 sitemap: false
 permalink: /
 ---
