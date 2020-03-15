@@ -77,3 +77,133 @@
     url: https://dx.doi.org/10.1063/1.4953577
     display: J. Chem. Phys., 144, 224109, 2016
   highlight: 0
+
+- title: Nanoscale fluid structure of liquid-solid-vapour contact lines for a wide range of contact angles
+  image: dummy.png
+  description: ""
+  authors:
+    A. Nold, D. N. Sibley, B. D. Goddard and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1051/mmnp/201510407
+    display: Math. Model. Nat. Phenom., 19, (4), 111-124, 2015
+  highlight: 0
+
+- title: Fluid structure in the immediate vicinity of an equilibrium three-phase contact line and assessment of disjoining pressure models using density functional theory
+  image: dummy.png
+  description: ""
+  authors:
+    A. Nold, D. N. Sibley, B. D. Goddard and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1063/1.4886128
+    display: Phys. Fluids, 26, 72001, 2014
+  highlight: 0
+  
+- title: Multi-species dynamical density functional theory
+  image: dummy.png
+  description: ""
+  authors:
+    B. D. Goddard, A. Nold and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1063/1.4800109
+    display: J. Chem. Phys., 138, 144904, 2013
+  highlight: 0  
+  
+- title: Unification of dynamic density functional theory for colloidal fluids to include inertia and hydrodynamic interactions: Derivation and numerical experiments
+  image: dummy.png
+  description: ""
+  authors:
+    B. D. Goddard, A. Nold, N.Savva and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1088/0953-8984/25/3/035101
+    display: J. Phys.: Condens. Matter, 25, 35101, 2013
+  highlight: 0  
+
+- title: General dynamical density functional theory for classical fluids
+  image: dummy.png
+  description: ""
+  authors:
+    B. D. Goddard, A. Nold, N.Savva, G. A. Pavliotis and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1103/PhysRevLett.109.120603
+    display: Phys. Rev. Lett,, 109, 120603, 2012
+  highlight: 0
+  
+- title: The overdamped limit of dynamic density functional theory: Rigorous results
+  image: dummy.png
+  description: ""
+  authors:
+    B. D. Goddard, G. A. Pavliotis and S. Kalliadasis
+  link:
+    url: https://dx.doi.org/10.1137/110844659
+    display: SIAM Multiscale Model. Sim., 10, (2), 633-663, 2012
+  highlight: 0  
+
+- title: Nonadiabatic transitions through tilted avoided crossings
+  image: dummy.png
+  description: ""
+  authors:
+    V. Betz and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1137/100802347
+    display: SIAM J. Sci. Comp., 33, (5), 2247-2276, 2011
+  highlight: 0  
+
+- title: Atomic structure via highly charged ions and their exact quantum states
+  image: dummy.png
+  description: ""
+  authors:
+    G. Friesecke and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1103/PhysRevA.81.032516
+    display: Phys. Rev. A, 81, 32516, 2010
+  highlight: 0
+  
+- title: Accurate prediction of non-adiabatic transitions through avoided crossings
+  image: dummy.png
+  description: ""
+  authors:
+    V. Betz and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1103/PhysRevLett.103.213001
+    display: Phys. Rev. Lett., 103, 213001, 2009
+  highlight: 0  
+  
+- title: Superadiabatic transitions in quantum molecular dynamics
+  image: dummy.png
+  description: ""
+  authors:
+    V. Betz, B. D. Goddard and S. Teufel
+  link:
+    url: https://dx.doi.org/10.1098/rspa.2009.0337
+    display: P. Roy. Soc. A-Math. Phy., 485, 3553-3580, 2009
+  highlight: 0  
+  
+- title: Asymptotics-based CI models for atoms: Properties, exact solution of a minimal model for Li to Ne, and application to atomic spectra
+  image: dummy.png
+  description: ""
+  authors:
+    G. Friesecke and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1137/080736648
+    display: SIAM Multiscale Model. Sim., 7, (4), 1876-1897, 2009
+  highlight: 0
+  
+- title: Explicit large nuclear charge limit of electronic ground states for Li, Be, B, C, N, O, F, Ne and basic aspects of the periodic table
+  image: dummy.png
+  description: ""
+  authors:
+    G. Friesecke and B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1137/080729050
+    display: SIAM J. Math. Anal., 41, (2), 631-664, 2009
+  highlight: 0
+  
+- title: Rate of convergence of the configuration interaction model for the helium ground state
+  image: dummy.png
+  description: ""
+  authors:
+    B. D. Goddard
+  link:
+    url: https://dx.doi.org/10.1137/080727956
+    display: SIAM J. Math. Anal., 41, (1), 77-116, 2009
+  highlight: 0  
