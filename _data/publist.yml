@@ -1,4 +1,5 @@
 - title: Automated calculation of higher order partial differential equation constrained derivative information
+  number: 21
   image: dummy.png
   description: ""
   authors:
@@ -9,6 +10,7 @@
   highlight: 1
   
 - title: "The vicinity of an equilibrium three-phase contact line using density functional theory: Density profiles normal to the fluid interface"
+  number: 20
   image: dummy.png
   description: ""
   authors:
@@ -19,6 +21,7 @@
   highlight: 0  
 
 - title: General framework for fluctuating dynamic density functional theory
+  number: 19
   image: dummy.png
   description: ""
   authors:
@@ -29,6 +32,7 @@
   highlight: 1
   
 - title: Nonequilibrium molecular dynamics simulations of nanoconfined fluids at solid-liquid interfaces
+  number: 18
   image: dummy.png
   description: ""
   authors:
@@ -39,6 +43,7 @@
   highlight: 0
   
 - title: Pseudospectral methods for density functional theory in bounded and unbounded domains
+  number: 17
   image: dummy.png
   description: ""
   authors:
@@ -49,6 +54,7 @@
   highlight: 0
   
 - title: Dynamical density functional theory with hydrodynamic interactions in confined geometries
+  number: 16
   image: dummy.png
   description: ""
   authors:
@@ -59,6 +65,7 @@
   highlight: 0  
   
 - title: Dynamical density functional theory for orientable colloids including inertia and hydrodynamic interactions
+  number: 15
   image: dummy.png
   description: ""
   authors:
@@ -69,6 +76,7 @@
   highlight: 0    
   
 - title: Wave packet dynamics in the optimal superadiabatic approximation
+  number: 14
   image: dummy.png
   description: ""
   authors:
@@ -79,6 +87,7 @@
   highlight: 0
 
 - title: Nanoscale fluid structure of liquid-solid-vapour contact lines for a wide range of contact angles
+  number: 13
   image: dummy.png
   description: ""
   authors:
@@ -89,6 +98,7 @@
   highlight: 0
 
 - title: Fluid structure in the immediate vicinity of an equilibrium three-phase contact line and assessment of disjoining pressure models using density functional theory
+  number: 12
   image: dummy.png
   description: ""
   authors:
@@ -99,6 +109,7 @@
   highlight: 0
   
 - title: Multi-species dynamical density functional theory
+  number: 11
   image: dummy.png
   description: ""
   authors:
@@ -109,6 +120,7 @@
   highlight: 0  
   
 - title: "Unification of dynamic density functional theory for colloidal fluids to include inertia and hydrodynamic interactions: Derivation and numerical experiments"
+  number: 10
   image: dummy.png
   description: ""
   authors:
@@ -119,6 +131,7 @@
   highlight: 0  
 
 - title: General dynamical density functional theory for classical fluids
+  number: 9
   image: dummy.png
   description: ""
   authors:
@@ -129,6 +142,7 @@
   highlight: 0
   
 - title: "The overdamped limit of dynamic density functional theory: Rigorous results"
+  number: 8
   image: dummy.png
   description: ""
   authors:
@@ -139,6 +153,7 @@
   highlight: 0  
 
 - title: Nonadiabatic transitions through tilted avoided crossings
+  number: 7
   image: dummy.png
   description: ""
   authors:
@@ -149,6 +164,7 @@
   highlight: 0  
 
 - title: Atomic structure via highly charged ions and their exact quantum states
+  number: 6
   image: dummy.png
   description: ""
   authors:
@@ -159,6 +175,7 @@
   highlight: 0
   
 - title: Accurate prediction of non-adiabatic transitions through avoided crossings
+  number: 5
   image: dummy.png
   description: ""
   authors:
@@ -169,6 +186,7 @@
   highlight: 0  
   
 - title: Superadiabatic transitions in quantum molecular dynamics
+  number: 4
   image: dummy.png
   description: ""
   authors:
@@ -179,6 +197,7 @@
   highlight: 0  
   
 - title: "Asymptotics-based CI models for atoms: Properties, exact solution of a minimal model for Li to Ne, and application to atomic spectra"
+  number: 3
   image: dummy.png
   description: ""
   authors:
@@ -189,6 +208,7 @@
   highlight: 0
   
 - title: Explicit large nuclear charge limit of electronic ground states for Li, Be, B, C, N, O, F, Ne and basic aspects of the periodic table
+  number: 2
   image: dummy.png
   description: ""
   authors:
@@ -199,6 +219,7 @@
   highlight: 0
   
 - title: Rate of convergence of the configuration interaction model for the helium ground state
+  number: 1
   image: dummy.png
   description: ""
   authors:
