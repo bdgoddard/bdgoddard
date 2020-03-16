@@ -1,11 +1,11 @@
-I"�<h1 id="group-members">Group Members</h1>
+I"	<h1 id="group-members">Group Members</h1>
 
 <h2 id="phd-students">PhD Students</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/TimHurst.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/TimHurst.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Tim Hurst</h4>
     <p><i>PhD student since 2016 
   <br />email: <a href="mailto:s1111092@sms.ed.ac.uk">s1111092@sms.ed.ac.uk</a></i></p>
@@ -26,7 +26,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Rory Mills-Williams</h4>
     <p><i>PhD student since 2015 
   <br />email: <a href="mailto:r.mills@ed.ac.uk">r.mills@ed.ac.uk</a></i></p>
@@ -49,7 +49,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/MildredAduamoah.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/MildredAduamoah.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Mildred Aduamoah</h4>
     <p><i>PhD student since 2018 
   <br />email: <a href="mailto:s1783812@sms.ed.ac.uk">s1783812@sms.ed.ac.uk</a></i></p>
@@ -70,7 +70,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/JonnaRoden.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/JonnaRoden.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jonna Roden</h4>
     <p><i>PhD student since 2019 
   <br />email: <a href="mailto:J.C.Roden@sms.ed.ac.uk">J.C.Roden@sms.ed.ac.uk</a></i></p>
@@ -95,7 +95,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/bio-photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Adarsh Prabhakaran</h4>
     <p><i>PhD student since 2019 
   <br />email: <a href="mailto:A.Prabhakaran@sms.ed.ac.uk">A.Prabhakaran@sms.ed.ac.uk</a></i></p>
@@ -120,7 +120,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/MiguelDuranOlivencia.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/group/MiguelDuranOlivencia.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Miguel A. Duran-Olivencia</h4>
     <p><i>Postdoc, 2015-2017</i></p>
     <p>Miguel was a postdoc joint with <a href="http://www3.imperial.ac.uk/complexmultiphasesystems">Serafim Kalliadasis</a> and <a href="http://www2.imperial.ac.uk/~pavl/">Greg Pavliotis</a> (Imperial College London), working on our EPSRC funded grant “‘“Statistical mechanics of soft matter”:” Derivation, analysis and implementation of dynamic density functional theories”’”.  He was primarily working on dynamical density functional theory (DDFT) for anisotropic particles.  In particular, he was focussing on the inclusion of inertia and hydrodynamic interactions in such models, which are crucial for describing a range of physical processes such as nucleation.  He is now working in the finance industry, primarily using stochastic models.</p>
