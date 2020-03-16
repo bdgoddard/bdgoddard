@@ -1,7 +1,18 @@
+- title: Nonadiabatic Transitions in Multiple Dimensions
+  number: 22
+  image: BGH-SISC.png
+  description: We extend previous work on the superadiabatic formulation of nonadiabatic transitions to arbitrary number of degrees of freedom. We also present a numerical scheme for accurate and efficient computation of transmitted wavepackets.
+  authors:
+    V. Betz,  B. D. Goddard, and T. Hurst
+  link:
+    url: https://doi.org/10.1137/18M1188756
+    display: J. Sci. Comp., 41, (5), B1011-B1033, 2019
+  highlight: 1
+
 - title: Automated calculation of higher order partial differential equation constrained derivative information
   number: 21
-  image: dummy.png
-  description: ""
+  image: MGG-SISC.png
+  description: We extend automatic differentiation techniques to higher derivatives, allowing the calculation of PDE-constrained Hessian actions.  We demonstrate applications in particle dynamics and geosciences.
   authors:
     J. R. Maddison, D. N. Goldberg and B. D. Goddard
   link:
@@ -11,19 +22,19 @@
   
 - title: "The vicinity of an equilibrium three-phase contact line using density functional theory: Density profiles normal to the fluid interface"
   number: 20
-  image: dummy.png
-  description: ""
+  image: NMSGK-MolPhys.png
+  description: Using previously-developed methodologies for determining three-phase equilibria using DDFT, we demonstrate the strong dependence on the normal distance to the interface, compared to the vertical distance to the substrate.
   authors:
     A. Nold, L . G . MacDowell, D. N. Sibley, B. D. Goddard and S. Kalliadasis
   link:
     url: https://dx.doi.org/10.1080/00268976.2018.1471223
     display: Mol. Phys., 116, (17), 2239-2243, 2018
-  highlight: 0  
+  highlight: 1  
 
 - title: General framework for fluctuating dynamic density functional theory
   number: 19
-  image: dummy.png
-  description: ""
+  image: OYGK-NJP.png
+  description: We present a bottom-up derivation of a framework to describe aniosotropic particles out of equilibrium.  We highlight connections with the Dean-Kawasaki model and DDFT.
   authors:
     M. A. Duran-Olivencia, P. Yatsyshin, B. D. Goddard and S. Kalliadasis
   link:
