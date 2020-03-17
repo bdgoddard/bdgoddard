@@ -1,0 +1,50 @@
+I"V <h1 id="research">Research</h1>
+
+<h2 id="general-interests">General Interests</h2>
+
+<p>I am interested in the derivation and analysis of reduced models for complex physical systems. In particular, I use a synergistic approach combining modelling, mathematical analysis and numerics to study phenomena in a wide range of mathematical physics including <a href="#soft-matter">soft/condensed matter physics</a>, <a href="#quantum-molecular-dynamics">quantum molecular dynamics</a>, and the <a href="#electronic-structure">electronic structure</a> of atoms and molecules.  I also have interests in <a href="#mathematical-biology">Mathematical Biology</a> and <a href="#PDE-constrained-optimisation">PDE-constrained optimisation</a>.</p>
+
+<h2 id="soft-matter">Soft Matter</h2>
+
+<p>Joint work with <a href="http://www3.imperial.ac.uk/complexmultiphasesystems">Serafim Kalliadasis</a> (Imperial College London, Chem. Eng.),
+<a href="https://www.researchgate.net/profile/Andreas_Nold">Andreas Nold</a>
+(Max Plank Institute for Brain Research),
+<a href="https://researchportal.hw.ac.uk/en/persons/raffaella-ocone">Raffaella Ocone</a> (Heriot-Watt University, Engineering),
+<a href="http://www2.imperial.ac.uk/~pavl/">Greg Pavliotis</a> (Imperial College London, Maths),
+<a href="http://www.cardiff.ac.uk/maths/contactsandpeople/profiles/savvan.html">Nikos Savva</a> (Cardiff University, Maths),
+<a href="http://www.lboro.ac.uk/departments/maths/staff/academic/david-sibley/">David Sibley</a>  (Loughborough University, Maths),
+<a href="http://www.homepages.ed.ac.uk/jsun/">Jin Sun</a> (University of Edinburgh, Engineering),
+<a href="https://www2.ph.ed.ac.uk/~jthijsse/">Job Thijssen</a> (University of Edinburgh, Physics),
+<a href="https://markwilkinson-hw.wixsite.com/homepage">Mark Wilkinson</a> (Nottingham Trent University, Mathematics),
+and
+<a href="http://www3.imperial.ac.uk/complexmultiphasesystems/group/yatsyshin">Petr Yatsyshin</a> (Imperial College London, Chem. Eng.)</p>
+
+<p>Soft matter is a broad (and, for a mathematician’s point of view, poorly defined) term that describes materials that are easily deformed under the application of external forces, such as gravity or pressure,
+at room temperature  Typical everyday examples include soaps, gels, foams, paints, gels, liquid crystals and biological matter.  The aim of this research is to understand and elucidate the fundamental physics behind the behaviour of such materials both in and our of equilibrium.</p>
+
+<p><img src="http://localhost:4000/images/Colloids.png" alt="" style="width: 400px; float: right; border: 10px" /></p>
+
+<p>Such effects are highly multiscale since interactions on the microscopic, particle-size scale strongly affect the  macroscopic behaviour. Such problems require a careful combination of modelling, rigorous mathematical analysis and numerics.  Since the experimental observation of Brownian motion in the 19th century and the foundation of statistical mechanics by Einstein at the start of the 20th century, colloidal fluids (consisting of many microscopic particles suspended in a fluid bath) have been model systems for both experimental and theoretical scrutiny.  Typical examples of colloidal fluids are milk, blood and ink, and recent advances in biophysics and nanotechnology have stimulated great interest in the dynamics of such soft matter.</p>
+
+<p>Due to the large numbers of particles, direct computation of the dynamics becomes intractable and reduced models are necessary. Ideally, we would like reduced equations with dimension independent of the number of particles. In recent years one such class of models, known as dynamical density functional theories (DDFTs), has received increasing attention. Existing DDFTs neglect either the inertia of the colloidal particles, or hydrodynamic interactions (bath-mediated forces), or both. However, these effects are crucial for understanding the dynamics of many colloidal systems and a more general DDFT is required.</p>
+
+<p>We have rigorously derived a DDFT formalism including all crucial physical effects, which contains many existing DDFTs as special cases.  Via a rigorous homogenization argument, we have shown that the true DDFT in the high friction limit differs from that obtained by more heuristic arguments.  In particular, the rigorously-derived DDFT included a density-dependent diffusion tensor. We have also implemented an efficient numerical scheme based on the extension of spectral methods to integro-partial-differential equations to solve DDFTs. The scheme allows us to demonstrate the excellent agreement with the full underlying stochastic dynamics for a range of systems and to tackle a wide range of problems in soft matter.</p>
+
+<h2 id="quantum-molecular-dynamics">Quantum Molecular Dynamics</h2>
+
+<p>Joint work with
+<a href="http://www.mathematik.tu-darmstadt.de/~betz/">Volker Betz</a> (TU Darmstadt, Maths),
+<a href="http://www.kirrander.chem.ed.ac.uk/">Adam Kirrander</a> (University of Edinburgh, Chemistry),
+<a href="https://www.uni-bielefeld.de/chemie/tc/Manthe/">Uwe Manthe</a> (Universität Bielefeld, Chemistry),
+and 
+<a href="https://www.maphy.uni-tuebingen.de/members/stte">Stefan Teufel</a> (Universität Tübingen, Maths).</p>
+
+<p>The aim of quantum molecular dynamics is to solve the time-dependent Schrödinger equation, which describes the motion of the electrons and nuclei in atoms and molecules.  Since nuclei are much (at least a few thousand) times heavier than electrons, the timescales associated with the motion of nuclei and electrons are generally well-separated.  In particular, when electronic energy levels for a given molecule are well-separated, the nuclear and electronic dynamics decouple, leading to the Born-Oppenheimer approximation under which the electrons are assumed to equilibrate instantaneously from the point of view of the nuclei.  This dramatically reduces the complexity of the problem (however, it is still hard!).</p>
+
+<p>Despite its success, situations in which the Born-Oppenheimer approximation fails are of great interest in quantum chemistry.  These occur when the electronic energy levels are not well-separated for a given nuclear configuration.  Important applications include the photodissociation of diatomic molecules like NaI (sodium iodide), or the reception of light in the retina. Two basic types of failure occur: conical (or full) crossings as appearing, and avoided crossings. The latter are typical for systems with
+one nuclear degree of freedom, and are the topic of much of our research.</p>
+
+<p>The simplest example of such a system is a dimer (a molecule with two atoms, such as NaI) for which we consider only the interatomic separation.  This is a 1D problem and, for a particular separation, the lowest two energy levels become very close but do not cross.  In a typical experiment, a laser excites the electrons, which change configuration.  This in turn causes a force on the nuclei, causing them to move apart.  When the electronic energy levels are well-separated, the Born-Oppenheimer approximation is very accurate and only the dynamics on the excited energy level need to be considered.  However, near the avoided crossing, the energy levels couple and an exponentially small part of the wavepacket is transferred to the lower energy level.  This purely quantum effect is crucial in many ultrafast reactions.</p>
+
+<p>To understand such processes, it is crucial to be able to predict the size and shape of the transmitted wavepacket.  The main difficulties are that it is both exponenetially small (meaning that numerical errors are likely to swamp the true result) and very quickly oscillating (meaning that a very fine grid is needed).  Hence such problems are numerically highly challenging.  Our work bypassed this issue via careful application of a mathematical technique called superadiabatic projections.  This allowed us to derive an explicit formula for the transmitted wavepacket.  This led to the determination of an efficient and accurate algorithm, the result of which agrees with highly-accurate numerical simulations for a wide range of wavepackets and potentials.  We have recently extended our results to arbitrary dimension (degrees of freedom), and demonstrated the excellent accuracy in 2D.</p>
+:ET
