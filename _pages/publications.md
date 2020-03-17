@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Recent
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=ThCSvkUAAAAJ).
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=ThCSvkUAAAAJ)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
