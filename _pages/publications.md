@@ -47,6 +47,15 @@ permalink: /publications/
 </div>
 {% endif %}
 
+## Preprints
+
+{% for publi in site.data.prelist %}
+
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 ## Full List
 
 {% for publi in site.data.publist %}

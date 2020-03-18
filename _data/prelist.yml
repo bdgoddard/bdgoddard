@@ -1,0 +1,48 @@
+- title: Nascent transcript folding plays a major role in determining RNA polymerase elongation rates
+  image: dummy.png
+  description:
+  authors:
+    T. W. Turowski, E. Petfalski, B. D. Goddard, S. L. French, A. Helwak, and D. Tollervey
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.03.05.969709v1
+    display: biorxiv
+  highlight: 0
+
+- title: Modelling inelastic granular media using Dynamical Density Functional Theory
+  image: dummy.png
+  authors:
+    B. D. Goddard, T. D. Hurst, and R. Ocone
+  link:
+    url: https://arxiv.org/abs/2003.07327
+    display: arxiv
+  highlight: 0
+
+- title: Well-Posedness and Equilibrium Behaviour of Overdamped Dynamic Density Functional Theory
+  image: dummy.png
+  description:
+  authors:
+    B. D. Goddard, R. D. Mills-Williams, and G. A. Pavliotis
+  link:
+    url: https://arxiv.org/abs/2002.11663
+    display: arxiv
+  highlight: 0
+
+- title: A derivation of the Liouville equation for hard particle dynamics with non-conservative interactions
+  image: dummy.png
+  description:
+  authors:
+    B. D. Goddard, T. D. Hurst, and M. Wilkinson
+  link:
+    url: https://arxiv.org/abs/1910.06656
+    display: arxiv
+  highlight: 0
+
+- title: The Singular Hydrodynamic Interaction between Two Unequal Collinear Spheres
+  image: dummy.png
+  description:
+  authors:
+    B. D. Goddard, R. D. Mills-Williams, and J. Sun
+  link:
+    url: https://arxiv.org/abs/1809.05459
+    display: arxiv
+  highlight: 0
