@@ -1,6 +1,6 @@
 ---
 title: "Ben Goddard - Group"
-layout: gridlay
+layout: grouplay
 excerpt: "Ben Goddard: Group members"
 sitemap: false
 permalink: /group/

@@ -10,11 +10,18 @@ permalink: /research/
 
 ## General Interests
 
+<div class="col-sm-12 clearfix">
+
 I am interested in the derivation and analysis of reduced models for complex physical systems. In particular, I use a synergistic approach combining modelling, mathematical analysis and numerics to study phenomena in a wide range of mathematical physics including [soft/condensed matter physics](#soft-matter), [quantum molecular dynamics](#quantum-molecular-dynamics), and the [electronic structure](#electronic-structure) of atoms and molecules.  I also have interests in [Mathematical Biology](#mathematical-biology) and [PDE-constrained optimisation](#PDE-constrained-optimisation).
 
-<div class="row"></div>
+</div>
+
+
+
 
 ## Soft Matter
+
+<div class="col-sm-12 clearfix">
 
 Joint work with [Serafim Kalliadasis](http://www3.imperial.ac.uk/complexmultiphasesystems) (Imperial College London, Chem. Eng.),
 [Andreas Nold](https://www.researchgate.net/profile/Andreas_Nold)
@@ -34,7 +41,6 @@ at room temperature  Typical everyday examples include soaps, gels, foams, paint
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/Colloids.png){: style="width: 400px; float: right; border: 10px"}
 
-
 Such effects are highly multiscale since interactions on the microscopic, particle-size scale strongly affect the  macroscopic behaviour. Such problems require a careful combination of modelling, rigorous mathematical analysis and numerics.  Since the experimental observation of Brownian motion in the 19th century and the foundation of statistical mechanics by Einstein at the start of the 20th century, colloidal fluids (consisting of many microscopic particles suspended in a fluid bath) have been model systems for both experimental and theoretical scrutiny.  Typical examples of colloidal fluids are milk, blood and ink, and recent advances in biophysics and nanotechnology have stimulated great interest in the dynamics of such soft matter.
 
 Due to the large numbers of particles, direct computation of the dynamics becomes intractable and reduced models are necessary. Ideally, we would like reduced equations with dimension independent of the number of particles. In recent years one such class of models, known as dynamical density functional theories (DDFTs), has received increasing attention. Existing DDFTs neglect either the inertia of the colloidal particles, or hydrodynamic interactions (bath-mediated forces), or both. However, these effects are crucial for understanding the dynamics of many colloidal systems and a more general DDFT is required.
@@ -42,10 +48,12 @@ Due to the large numbers of particles, direct computation of the dynamics become
 We have rigorously derived a DDFT formalism including all crucial physical effects, which contains many existing DDFTs as special cases.  Via a rigorous homogenization argument, we have shown that the true DDFT in the high friction limit differs from that obtained by more heuristic arguments.  In particular, the rigorously-derived DDFT included a density-dependent diffusion tensor. We have also implemented an efficient numerical scheme based on the extension of spectral methods to integro-partial-differential equations to solve DDFTs. The scheme allows us to demonstrate the excellent agreement with the full underlying stochastic dynamics for a range of systems and to tackle a wide range of problems in soft matter.
  
 Recently, we have been working to extend these methodologies to granular media (in which the bath has very low, or even zero, viscosity).  We have derived an associated DDFT which requires externally-determined parameters.  Through a combination of microscopic simulations and data-science approaches, we have determined appropriate values for these parameters and numerically implemented the associated DDFTs.  This has allowed us to elucidate the important physical effects in inelastic granular media.
+</div>
 
-<div class="row"></div>
 
 ## Quantum Molecular Dynamics
+
+<div class="col-sm-12 clearfix">
 
 Joint work with
 [Volker Betz](http://www.mathematik.tu-darmstadt.de/~betz/) (TU Darmstadt, Maths),
@@ -65,9 +73,11 @@ The simplest example of such a system is a dimer (a molecule with two atoms, suc
 
 To understand such processes, it is crucial to be able to predict the size and shape of the transmitted wavepacket.  The main difficulties are that it is both exponenetially small (meaning that numerical errors are likely to swamp the true result) and very quickly oscillating (meaning that a very fine grid is needed).  Hence such problems are numerically highly challenging.  Our work bypassed this issue via careful application of a mathematical technique called superadiabatic projections.  This allowed us to derive an explicit formula for the transmitted wavepacket.  This led to the determination of an efficient and accurate algorithm, the result of which agrees with highly-accurate numerical simulations for a wide range of wavepackets and potentials.  We have recently extended our results to arbitrary dimension (degrees of freedom), and demonstrated the excellent accuracy in 2D.
 
-<div class="row"></div>
+</div>
 
 ## Electronic Structure
+
+<div class="col-sm-12 clearfix">
 
 Joint work with [Gero Friesecke](http://www-m7.ma.tum.de/bin/view/Analysis/GeroFriesecke) (TU Munich, Mathematics).
 
@@ -83,8 +93,10 @@ By suggesting a novel scaling in which to plot energies of isoelectronic sequenc
 
 Unfortunately, for neutral atoms the energies produced by this model are not chemically accurate.This is a result of its failure to satisfy the virial theorem, which enforces a ratio of the kinetic andpotential energies. We therefore extended the model by introducing three variational parameters (analogousto widely-used 'screening parameters'), producing the first mathematical definition of a ConfigurationInteraction model. This model is 'minimal' in the sense that it contains the smallest basis, withthe fewest parameters, such that it is symmetry preserving, asymptotically exact, and satisfies the virialtheorem. Up to minimization over the three parameters, it remains exactly soluble by hand. The energiesobtained for atoms are comparable to (and in some cases better than) those of much larger numerical models.
 
-Our simple wavefunctions and a novel definition of bond angle in a trimer withtwo hydrogen atoms and a central atom X, allowed us to accurately predict, from first principles,the H-X-H bond angles.This angle depends on the bond length and, for a number of cases is not unique (a consequence of thenon-uniqueness of the ground state) and thus we predict a continuous range of possible bond angles, all withthe same energy of the central atom. Atoms with such bond angle ranges can be thought of as more 'flexible' and thus able to form a greater range of bonds (i.e. molecular geometries), with no energy penalty to the central atom. For sensible choices of the bond length, the predicted bond angles agree well with experiment for all first row atoms. In addition, we have shown that the small corrections to the standard Aufbau model are critical in predicting these bond angles.<div class="row"></div>
+Our simple wavefunctions and a novel definition of bond angle in a trimer withtwo hydrogen atoms and a central atom X, allowed us to accurately predict, from first principles,the H-X-H bond angles.This angle depends on the bond length and, for a number of cases is not unique (a consequence of thenon-uniqueness of the ground state) and thus we predict a continuous range of possible bond angles, all withthe same energy of the central atom. Atoms with such bond angle ranges can be thought of as more 'flexible' and thus able to form a greater range of bonds (i.e. molecular geometries), with no energy penalty to the central atom. For sensible choices of the bond length, the predicted bond angles agree well with experiment for all first row atoms. In addition, we have shown that the small corrections to the standard Aufbau model are critical in predicting these bond angles.</div>
 ## Mathematical Biology
+
+<div class="col-sm-12 clearfix">
 
 Joint work with 
 [David Tollervey](https://www.wcb.ed.ac.uk/research/tollervey) 
@@ -96,9 +108,11 @@ We are studying the effects of transcription elongation rates on RNA processing.
 
 It is interesting to see that a relatively simple mathematical model (from my point of view, not necessarily a feeling shared by the biologists) can lead to very good agreement with experiment.  There are many interesting possible extensions to this work, which we hope to pursue in the near future.
 
-<div class="row"></div>
+</div>
 
 ## PDE-Constrained Optimisation
+
+<div class="col-sm-12 clearfix">
 
 Joint work with [James Maddison](https://www.maths.ed.ac.uk/~jmaddis2/) and
 [John Pearson](https://sites.google.com/site/johnpearsonmaths/home) (University of Edinburgh, School of Mathematics).
@@ -110,3 +124,5 @@ One of the most common way of modelling large-scale physical systems is through 
 Most mathematical work on PDECO has focussed on systems in which inter-particle interactions are neglected.  In some situations this is a reasonable assumption.  However, in many cases, the inter-particle interactions are one of the dominant effects in the system and qualitatively and quantitatively affect the dynamics.  For example, the attraction of yeast cells causes them to clump together (or flocculate), which significantly affects the sedimentation dynamics in the brewing process.
 
 We are working to combine models from DDFT (which provide accurate solutions to the dynamics of interacting particles) with techniques from PDECO in order to tackle real-world, industrially-relevant applications.
+
+</div>
