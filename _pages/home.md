@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Goddard.jpg" class="img-responsive" width="25%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/home/Goddard.jpg" class="img-responsive" width="25%" style="float: right" />
 
 I am currently a lecturer in the [School of Mathematics](http://www.maths.ed.ac.uk/) at the [University of Edinburgh](http://www.ed.ac.uk/). 
 

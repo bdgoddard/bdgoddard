@@ -47,9 +47,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
-
 ## Full List
 
 {% for publi in site.data.publist %}

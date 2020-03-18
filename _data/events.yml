@@ -1,0 +1,206 @@
+- title: "[POSTPONED!] New Directions in Classical Density Functional Theory"
+  location: ICMS, Edinburgh
+  dates: 11-15th May 2020
+  number_coorg: 2
+  coorg1: Andrew Archer
+  coorg1_inst: Loughborough University
+  coorg1_url: https://www.lboro.ac.uk/departments/maths/staff/academic/andrew-archer/
+  coorg2: Roland Roth
+  coorg2_inst: University of T&uuml;bingen
+  coorg2_url: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/institutes/institute-for-theoretical-physics/research-groups/roth-group/
+  link:
+    is_link: 0
+    url: 
+  highlight: 1
+
+
+- title: "Scottish Numerical Methods Network 2019: Second workshop"
+  location: Edinburgh
+  dates: 10th April 2019
+  number_coorg: 1
+  coorg1: Kostas Zygalakis
+  coorg1_inst: University of Edinburgh
+  coorg1_url: https://www.maths.ed.ac.uk/school-of-mathematics/people?person=506
+  link:
+    is_link: 1
+    url: ../html/LMS19.html
+  highlight: 1
+
+- title: "Scottish Numerical Methods Network 2018: Second workshop"
+  location: Edinburgh
+  dates: 16th May 2018
+  number_coorg: 2
+  coorg1: Agis Athanassoulis
+  coorg1_inst: University of Dundee
+  coorg1_url: http://agis.athanassoulis.net/
+  coorg2: Gabriel Barrenechea
+  coorg2_inst: University of Strathclyde
+  coorg2_url: https://www.strath.ac.uk/staff/barrenecheagabrieldr/
+  link:
+    is_link: 1
+    url: http://www.maths.dundee.ac.uk/aathanassoulis/workshop18_2.html
+  highlight: 0 
+
+- title: "Scottish Numerical Methods Network 2018: First workshop"
+  location: Strathclyde
+  dates: 30th January 2018
+  number_coorg: 2
+  coorg1: Agis Athanassoulis
+  coorg1_inst: University of Dundee
+  coorg1_url: http://agis.athanassoulis.net/
+  coorg2: Gabriel Barrenechea
+  coorg2_inst: University of Strathclyde
+  coorg2_url: https://www.strath.ac.uk/staff/barrenecheagabrieldr/
+  link:
+    is_link: 1
+    url: http://www.maths.dundee.ac.uk/aathanassoulis/workshop18_1.html
+  highlight: 0 
+
+- title: "MIGSAA summer school on multiscale problems in nonlinear PDEs"
+  location: Edinburgh
+  dates: 5-7th September 2017
+  number_coorg: 2
+  coorg1: Markus Schmuck
+  coorg1_inst: Heriot-Watt University
+  coorg1_url: https://uk.linkedin.com/in/markus-schmuck-892102137
+  coorg2: Dominic Breit
+  coorg2_inst: Heriot-Watt University
+  coorg2_url: https://www.hw.ac.uk/schools/mathematical-computer-sciences/staff-directory/dominic-breit.htm
+  link:
+    is_link: 1
+    url: http://www.icms.org.uk/workshop.php?id=456
+  highlight: 0 
+
+- title: "Edinburgh (MD) simulation day"
+  location: Edinburgh
+  dates: 8th May 2017
+  number_coorg: 2
+  coorg1: Toni Mey
+  coorg1_inst: Edinburgh, Chemistry
+  coorg1_url: http://mey-research.org/
+  coorg2: Marieke Schor
+  coorg2_inst: Edinburgh, Physics
+  coorg2_url: http://www.ph.ed.ac.uk/people/marieke-schor
+  link:
+    is_link: 1
+    url: https://edinburghmd.github.io/
+  highlight: 0
+
+- title: "BAMC minisymposium on multiscale systems: from analysis to numerics to applications"
+  location: Surrey
+  dates:  10-12th April 2017
+  number_coorg: 2
+  coorg1: Serafim Kalliadasis
+  coorg1_inst: Imperial College London
+  coorg1_url: https://www.imperial.ac.uk/people/s.kalliadasis
+  coorg2: Greg Pavliotis
+  coorg2_inst: Imperial College London
+  coorg2_url: http://wwwf.imperial.ac.uk/~pavl/
+  link:
+    is_link: 1
+    url: http://www.surrey.ac.uk/bamc
+  highlight: 0
+
+
+- title: "MIGSAA summer school on mathematical fluid mechanics"
+  location: Edinburgh
+  dates: 13-16th September 2016
+  number_coorg: 2
+  coorg1: Markus Schmuck
+  coorg1_inst: Heriot-Watt University
+  coorg1_url: https://uk.linkedin.com/in/markus-schmuck-892102137
+  coorg2: Dominic Breit
+  coorg2_inst: Heriot-Watt University
+  coorg2_url: https://www.hw.ac.uk/schools/mathematical-computer-sciences/staff-directory/dominic-breit.htm
+  link:
+    is_link: 1
+    url: http://www.icms.org.uk/workshop.php?id=407
+  highlight: 0 
+
+- title: "BAMC minisymposium on statistical mechanical and diffuse interface modelling of inhomogeneous fluids"
+  location: Oxford
+  dates: 5-8th April 2016
+  number_coorg: 4
+  coorg1: Serafim Kalliadasis
+  coorg1_inst: Imperial College London
+  coorg1_url: https://www.imperial.ac.uk/people/s.kalliadasis
+  coorg2: Marc Pradas
+  coorg2_inst: The Open University
+  coorg2_url: http://www.mathematics.open.ac.uk/people/marc.pradas
+  coorg3: Nikos Savva
+  coorg3_inst: Cardiff University
+  coorg3_url: https://www.cardiff.ac.uk/people/view/98667-savva-nikos
+  coorg4: Peter Yatsyshin
+  coorg4_inst: Imperial College London
+  coorg4_url: http://www.imperial.ac.uk/complex-multiscale-systems/our-group/dr-peter-yatsyshin
+  link:
+    is_link: 1
+    url: https://sites.google.com/site/bamc2016oxford/
+  highlight: 0
+
+- title: "BAMC minisymposium on complex multiscale systems"
+  location: Oxford
+  dates: 5-8th April 2016
+  number_coorg: 1
+  coorg1: Markus Schmuck
+  coorg1_inst: Heriot-Watt University
+  coorg1_url: https://uk.linkedin.com/in/markus-schmuck-892102137
+  link:
+    is_link: 1
+    url: https://sites.google.com/site/bamc2016oxford/
+  highlight: 0
+
+- title: "Challenges in statistical mechanics: from mathematics to molecular dynamics to technological applications"
+  location: London
+  dates: 7-10th December 2015
+  number_coorg: 4
+  coorg1: Serafim Kalliadasis
+  coorg1_inst: Imperial College London
+  coorg1_url: https://www.imperial.ac.uk/people/s.kalliadasis
+  coorg2: Michela Ottobre
+  coorg2_inst: Heriot-Watt University
+  coorg2_url: http://www.macs.hw.ac.uk/~mo3/
+  coorg3: Greg Pavliotis
+  coorg3_inst: Imperial College London
+  coorg3_url: http://wwwf.imperial.ac.uk/~pavl/
+  coorg4: Johannes Zimmer
+  coorg4_inst: University of Bath
+  coorg4_url: http://www.maths.bath.ac.uk/~jz203/
+  link:
+    is_link: 1
+    url: http://www.macs.hw.ac.uk/~mo3/Workshop.html
+  highlight: 0
+
+- title: "Maxwell Institute Colloquium on Modelling, Mathematics, and Computation
+of Complex Multiscale Systems"
+  location: Edinburgh
+  dates: 2nd July 2014
+  number_coorg: 1
+  coorg1: Markus Schmuck
+  coorg1_inst: Heriot-Watt University
+  coorg1_url: https://uk.linkedin.com/in/markus-schmuck-892102137
+  link:
+    is_link: 0
+    url: 
+  highlight: 0
+
+- title: "Multiscale Computational Methods in Materials Modelling (MCM3)"
+  location: Edinburgh
+  dates: 16th-20th June 2014
+  number_coorg: 4
+  coorg1: Oliver Henrich
+  coorg1_inst: University of Edinburgh
+  coorg1_url: http://www.ph.ed.ac.uk/people/oliver-henrich
+  coorg2: Ben Leimkuhler
+  coorg2_inst: University of Edinburgh
+  coorg2_url: http://kac.maths.ed.ac.uk/~bl/
+  coorg3: Davide Marenduzzo
+  coorg3_inst: University of Edinburgh
+  coorg3_url: http://www2.ph.ed.ac.uk/~dmarendu/DMarenduzzo.html
+  coorg4: Charlie Matthews
+  coorg4_inst: University of Edinburgh
+  coorg4_url: http://www.maths.ed.ac.uk/people/show?person=381
+  link:
+    is_link: 1
+    url: http://www.macs.hw.ac.uk/~mo3/Workshop.html
+  highlight: 0

@@ -1,0 +1,31 @@
+I"½<h1 id="events">Events</h1>
+
+<h2 id="recent">Recent</h2>
+
+<p>(For a full list see <a href="#full-list">below</a>).</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Nonadiabatic Transitions in Multiple Dimensions</pubtit>
+      <p><img src="http://localhost:4000/images/publications/BGH-SISC.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We extend previous work on the superadiabatic formulation of nonadiabatic transitions to arbitrary number of degrees of freedom. We also present a numerical scheme for accurate and efficient computation of transmitted wavepackets.</p>
+      <p><em>V. Betz,  B. D. Goddard, and T. Hurst</em></p>
+      <p><strong><a href="https://doi.org/10.1137/18M1188756">J. Sci. Comp., 41, (5), B1011-B1033, 2019</a></strong></p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>[22] Nonadiabatic Transitions in Multiple Dimensions <br />
+  <em>V. Betz,  B. D. Goddard, and T. Hurst </em><br /><a href="https://doi.org/10.1137/18M1188756">J. Sci. Comp., 41, (5), B1011-B1033, 2019</a></p>
+
+<p>[18] Nonequilibrium molecular dynamics simulations of nanoconfined fluids at solid-liquid interfaces <br />
+  <em>M. Morciano, M. Fasano, A. Nold, C. Braga, P. Yatsyshin, D. N. Sibley, B. D. Goddard, E. Chiavazzo, P. Asinari, and S. Kalliadasis </em><br /><a href="https://dx.doi.org/10.1063/1.4986904">J. Chem. Phys., 146, 244507, 2017</a></p>
+
+:ET
