@@ -12,11 +12,9 @@ permalink: /research/
 
 <div class="col-sm-12 clearfix">
 
-I am interested in the derivation and analysis of reduced models for complex physical systems. In particular, I use a synergistic approach combining modelling, mathematical analysis and numerics to study phenomena in a wide range of mathematical physics including [soft/condensed matter physics](#soft-matter), [quantum molecular dynamics](#quantum-molecular-dynamics), and the [electronic structure](#electronic-structure) of atoms and molecules.  I also have interests in [Mathematical Biology](#mathematical-biology) and [PDE-constrained optimisation](#PDE-constrained-optimisation).
+I am interested in the derivation and analysis of reduced models for complex physical systems. In particular, I use a synergistic approach combining modelling, mathematical analysis and numerics to study phenomena in a wide range of mathematical physics including [soft/condensed matter physics](#soft-matter), [quantum molecular dynamics](#quantum-molecular-dynamics), and the [electronic structure](#electronic-structure) of atoms and molecules.  I also have interests in [Mathematical Biology](#mathematical-biology) and [PDE-constrained optimisation](#pde-constrained-optimisation).
 
 </div>
-
-
 
 
 ## Soft Matter

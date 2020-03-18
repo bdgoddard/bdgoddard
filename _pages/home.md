@@ -61,3 +61,10 @@ Trivia:
 I have [Erd&#246;s](http://en.wikipedia.org/wiki/Erdos_number) number 4: Me --> Volker Betz --> Peter M&ouml;rters --> David Preiss --> Paul Erd&#246;s, and [Bacon number](http://en.wikipedia.org/wiki/Bacon_number) 3: Me --(G103)--> Patrick Niknejad --(Harry Potter)--> Gary Oldman --(Criminal Law)--> Kevin Bacon.
 
 This gives me an [Erd&#246;s-Bacon](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) number of 7.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/edinburgh_logo.jpg" style="width: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/maxwell_logo.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_logo.png" style="width: 150px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lms_logo.png" style="width: 110px">
+</figure>
