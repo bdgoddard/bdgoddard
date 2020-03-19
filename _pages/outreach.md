@@ -1,6 +1,6 @@
 ---
 title: "Ben Goddard - Outreach"
-layout: gridlay
+layout: publay
 excerpt: "Ben Goddard -- Outreach"
 permalink: /outreach/
 ---

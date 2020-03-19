@@ -1,10 +1,12 @@
 ---
 title: "Ben Goddard - Beers"
-layout: gridlay
+layout: textlay
 excerpt: "Ben Goddard -- Beers."
 sitemap: false
 permalink: /beers/
 ---
+
+# Beers
 
 {% assign total_beers = 0 %}
 
@@ -22,6 +24,33 @@ The rating is out of five, corresponding to:
 * <span class="beers_rating5"> &#9733;&#9733;&#9733;&#9733;&#9733; </span> A truly outstanding beer, get hold of wherever possible. Don't expect too many of these!
 
 If you'd like to see the highlights, take a look at my [wishlist](#wishlist).
+
+The format is:
+  
+  <span class="beers_brewery">Brewery</span>
+
+  <span>
+  Beer 1 &#9733;'s/&#9733;&#9733;&#9733;&#9733;&#9733;
+  </span>
+  <span class="beers_country">(Country)</span>
+  <span class="beers_abv">ABV%</span>
+  <span class="beers_style">Style</span>
+  <span class="beers_bcx">(bottle/can/cask)</span>
+  <br />
+  <span class="beers_review">Review</span>
+
+  <span>
+  Beer 2 &#9733;'s/&#9733;&#9733;&#9733;&#9733;&#9733;
+  </span>
+  <span class="beers_country">(Country)</span>
+  <span class="beers_abv">ABV%</span>
+  <span class="beers_style">Style</span>
+  <span class="beers_bcx">(bottle/can/cask)</span>
+  <br />
+  <span class="beers_review">Review</span>
+
+  &vellip;
+
 
 ## Full List
 
@@ -103,7 +132,7 @@ If you'd like to see the highlights, take a look at my [wishlist](#wishlist).
 
 ## Wishlist
 
-If you're thinking about buying me some beer then: (a) you're amazing, thank you!; (b) you could do a lot worse than buy me any of the beers in this section.
+If you're thinking about buying me some beer then: (a) you're amazing, thank you!; (b) you could do a lot worse than choosing some of the beers in this section.
 
 {% for beer in site.data.beers %}
 

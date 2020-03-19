@@ -1,6 +1,6 @@
 ---
 title: "Ben Goddard - Publications"
-layout: gridlay
+layout: publay
 excerpt: "Ben Goddard -- Publications."
 sitemap: false
 permalink: /publications/
